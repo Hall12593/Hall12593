@@ -7,15 +7,16 @@
     height="180"
     src="https://stats.hedystia.com/api?username=hall12593&theme=synthwave"
   />
-  <br />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hall12593&layout=compact&theme=dracula&langs_count=9&border_color=61dafb&border_radius=10"
-  />
+  
   <br />
   <img
     height="180"
     src="https://github-readme-streak-stats.herokuapp.com/?user=hall12593&theme=dracula&count-private=true&v=2&border=61dafb&border_radius=10"
+  />
+  <br />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hall12593&layout=compact&theme=dracula&langs_count=9&border_color=61dafb&border_radius=10"
   />
 </div>
 <hr />
