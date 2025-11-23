@@ -1,30 +1,3 @@
-
-<h2 align="center" style="font-family: Rubik 80s Fade">📊 Hall127 GitHub Stats 📊</h2>
-
-<br />
-<div width="100%" style="margin: 20px" align="center">
-  <img
-    height="180"
-    src="https://stats.hedystia.com/api?username=hall12593&theme=synthwave"
-  />
-  
-  <br />
-  <img
-    height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hall12593&theme=dracula&count-private=true&v=2&border=61dafb&border_radius=10"
-  />
-  <br />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hall12593&layout=compact&theme=dracula&langs_count=9&border_color=61dafb&border_radius=10"
-  />
-</div>
-<hr />
-
-<br />
-
-<h4 align="center">
-  <a href="https://github.com/hall12593?tab=repositories" title="Show Repositories">📂 All Repositories (Public Repositories) 📂</a>
-</h4>
-
 <img src="https://github-readme-stats.vercel.app/api?username=hall12593&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=corwindev&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="corwindev"/>
