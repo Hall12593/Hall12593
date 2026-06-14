@@ -22,11 +22,9 @@ Programador • Sistemas Propios • Automatizaciones • MaoMao lover ❤️
 
 Apasionado por la **automatización de sistemas**, construcción de herramientas propias y mantenimiento de infraestructura auto-hospedada. Me enfoco en soluciones eficientes, privacidad y zero-access encryption.
 
-<div style="display:flex;gap:10px;margin:20px 0;">
+<div style="display:flex;gap:10px;margin:20px 0;" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hall12593&background=0D1117&border=E0E0E0&ring=7A7ADB&fire=7A7ADB&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=7A7ADB&sideLabels=D3D3D3&dates=D3D3D3" width="400"/>
-    <br />
     <img src="https://github-readme-stats.vercel.app/api?username=hall12593&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hall12593&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="400"/>
 </div>
 
 ## Quieres ayudarme o contactarme?
