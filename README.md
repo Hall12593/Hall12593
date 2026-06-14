@@ -13,9 +13,6 @@ Programador • Sistemas Propios • Automatizaciones • MaoMao lover ❤️
 
 <a href="https://discord.gg/NZQE5EHsvh"><img src="https://discord.com/api/guilds/888906279458840597/widget.png?style=banner2"></a>
 
-
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-
 </div>
 
 ## Sobre Mí
@@ -34,6 +31,6 @@ Apasionado por la **automatización de sistemas**, construcción de herramientas
 [![PayPal](https://img.shields.io/badge/Payal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thehall127)
 [![Mail](https://img.shields.io/badge/hall127@nexorabot.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hall127@nexorabot.xyz)
 
-</div>P
+</div>
 
 Infraestructura optimizada • Cifrado end-to-end • Autogestión total
