@@ -1,10 +1,15 @@
-# Hall 👋
+# Hola, soy Hall127
 Programador • Sistemas Propios • Automatizaciones
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+![NexoraNewVerBanner](https://cdn.nexorabot.xyz/nexora/img/NexoraGamerCat_Banner.png)
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thehall127)
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hall12593&background=0D1117&border=E0E0E0&ring=7A7ADB" width="380"/>
 
