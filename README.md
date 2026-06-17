@@ -12,7 +12,7 @@ Programador • Sistemas Propios • Automatizaciones • MaoMao lover ❤️
 ![NexoraNewVerBanner](https://cdn.nexorabot.xyz/nexora/img/NexoraGamerCat_Banner.png)
 
 <a href="https://discord.gg/NZQE5EHsvh"><img src="https://discord.com/api/guilds/888906279458840597/widget.png?style=banner2"></a>
-
+<a href="https://discord.gg/NZQE5EHsvh"><img src="https://discord.com/api/guilds/1516432745247670332/widget.png?style=banner2"></a>
 </div>
 
 ## Sobre Mí
