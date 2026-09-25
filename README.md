@@ -1,5 +1,5 @@
-# Hola, soy Hall127
-Programador • Sistemas Propios • Automatizaciones • MaoMao lover ❤️
+# Hi, I'm Hall127
+Programmer • Self-built Systems • Automation • MaoMao lover ❤️
 
 
 <div align="center">
@@ -14,9 +14,9 @@ Programador • Sistemas Propios • Automatizaciones • MaoMao lover ❤️
 <a href="https://discord.gg/NZQE5EHsvh"><img src="https://discord.com/api/guilds/1516432745247670332/widget.png?style=banner2"></a>
 </div>
 
-## Sobre Mí
+## About Me
 
-Apasionado por la **automatización de sistemas**, construcción de herramientas propias y mantenimiento de infraestructura auto-hospedada. Me enfoco en soluciones eficientes, privacidad y zero-access encryption.
+I operate where systems fail quietly. Homelab + VPS infra operator. Building automation tools, self-hosted stacks, and zero-access encryption. I build the things nobody sees until they break.
 
 <div style="display:flex;gap:10px;margin:20px 0;" align="center">
   
@@ -27,12 +27,12 @@ Apasionado por la **automatización de sistemas**, construcción de herramientas
   [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hall12593&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=midnight-purple)
 </div>
 
-## Quieres apoyarme o contactarme?
+## Want to support or contact me?
 <div align="center">
   
-[![PayPal](https://img.shields.io/badge/Payal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thehall127)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/thehall127)
 [![Mail](https://img.shields.io/badge/hall127@nexorabot.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hall127@nexorabot.xyz)
 
 </div>
 
-Infraestructura optimizada • Cifrado end-to-end • Autogestión total
+Optimized infrastructure • End-to-end encryption • Full self-management
